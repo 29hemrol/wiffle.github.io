@@ -1,9 +1,9 @@
-h1.header {
+.header {
   text-align: center;
 }
-a#scolink {
+.scolink {
   text-align: left;
 }
-a#newlink {
+.newlink {
   text-align: right;
 }
