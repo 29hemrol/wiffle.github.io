@@ -1,6 +1,9 @@
 .header {
-  text-align: center;}
-#scolink:link {
-  text-align: left;}
-#newlink:link {
-  text-align: right;}
+  text-align: center;
+}
+#scolink {
+  text-align: left;
+}
+#newlink {
+  text-align: right;
+}
