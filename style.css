@@ -1,9 +1,13 @@
-.header {
+h1.header {
   text-align: center;
 }
 a#scolink {
+  display: block;
   text-align: left;
+  vertical-align: top;
 }
 a#newlink {
+  display: block;
   text-align: right;
+  vertical-align: top;
 }
