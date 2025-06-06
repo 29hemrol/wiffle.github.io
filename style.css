@@ -4,8 +4,10 @@
 a.lhlink {
   display: block;
   text-align: left;
+  vertical-align: top;
 }
 a.rhlink {
   display: block;
   text-align: right;
+  vertical-align: top;
 }
