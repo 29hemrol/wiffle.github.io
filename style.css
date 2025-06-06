@@ -1,11 +1,11 @@
 .header {
   text-align: center;
 }
-.lhlink {
+a.lhlink {
   display: block;
   text-align: left;
 }
-.rhlink {
+a.rhlink {
   display: block;
   text-align: right;
 }
