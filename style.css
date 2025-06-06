@@ -1,13 +1,13 @@
-.header {
+h1.header {
   text-align: center;
 }
-a.lhlink {
-  display: block;
+li.lhlink {
+  display: inline;
   text-align: left;
   vertical-align: top;
 }
-a.rhlink {
-  display: block;
+li.rhlink {
+  display: inline;
   text-align: right;
   vertical-align: top;
 }
