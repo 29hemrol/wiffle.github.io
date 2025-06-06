@@ -1,13 +1,11 @@
-h1.header {
+.header {
   text-align: center;
 }
-a#scolink {
+.lhlink {
   display: block;
   text-align: left;
-  vertical-align: top;
 }
-a#newlink {
+.rhlink {
   display: block;
   text-align: right;
-  vertical-align: top;
 }
